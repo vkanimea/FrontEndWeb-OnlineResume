@@ -52,7 +52,7 @@
            "title": "Systems Analyst",
            "location": "Auckland, NZ",
            "dates": "2014 to 2016",
-           "description": "Systems analysts are called upon when operational problems are encountered with IT systems, Typical duties include: examining current systems, talking to users (requirements gathering), producing specifications for new or modified systems liaising with other IT staff such as programmers to produce new systemsimplementing new systems"
+           "description": "Systems analysts are called upon when operational problems are encountered with IT systems, Typical duties include: examining current systems, talking to users (requirements gathering), producing specifications for new or modified systems liaising with other IT staff such as programmers to produce new systems implementing new systems"
 
           },
           {
